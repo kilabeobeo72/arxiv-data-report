@@ -1,0 +1,11 @@
+format: jb-book
+root: intro
+parts:
+  - caption: "Milestone 1 — Data Crawling"
+    chapters:
+      - file: milestone1/methodology
+      - file: milestone1/statistics_and_performance
+  - caption: "Milestone 2 — Parsing & Standardization"
+    chapters:
+      - file: milestone2/methodology
+      - file: milestone2/parsing_analysis

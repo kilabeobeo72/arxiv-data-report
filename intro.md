@@ -17,20 +17,6 @@ Dự án xây dựng một đường ống (pipeline) thu thập, phân tích c�
 
 ---
 
-## Phân công phạm vi dữ liệu và nhiệm vụ trong nhóm
-
-Mỗi thành viên được cấp một khoảng **5.000 mã arXiv ID** riêng biệt (tổng cộng **25.000 ID** cho toàn nhóm 5 thành viên) và phụ trách một module cốt lõi trong kiến trúc chung:
-
-| Thành viên | Khoảng phân công (`start_month start_id end_month end_id`) | Dải mã arXiv ID (`YYMM.NNNNN`) |
-| :---: | :--- | :--- | :--- |
-| **Thành viên 1 (Kiệt)** | `2510.14401` $\rightarrow$ `2510.19400` (5.000 ID) |
-| **Thành viên 2 (Dương)** | `2025-10 9401 2025-10 14400` | `2510.09401` $\rightarrow$ `2510.14400` (5.000 ID) |
-| **Thành viên 3 (Hà)** | `2510.04401` $\rightarrow$ `2510.09400` (5.000 ID) |
-| **Thành viên 4 (Kiên)** | `2025-09 26047 2025-10 4400` | `2509.26047` $\rightarrow$ `2509.26646` + `2510.00001` $\rightarrow$ `2510.04400` (5.000 ID) |
-| **Thành viên 5 (Anh)** |  `2025-09 11047 2025-09 16046` | `2509.11047` $\rightarrow$ `2509.16046` (5.000 ID) |
-
----
-
 ## Liên kết Repository
 
 - **Source Code Repository**: [https://github.com/theanhnek/arxiv-data-project](https://github.com/theanhnek/arxiv-data-project)
